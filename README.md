@@ -5,6 +5,7 @@ My name is Michael and I'm currently diving deep into the world of **C programmi
 ## 📚 What I'm Learning
 - C Programming: Exploring the roots and fundamentals.
 - Python: Delving into its versatile applications and scripting capabilities.
+- C++: Taking advantage of it's object oriented capabilities.
 
 ## 🔥 Passion
 App Development has always captivated me. There's something truly exciting about turning an idea into a tangible, functional application that can enhance people's lives.

@@ -12,7 +12,7 @@ App Development has always captivated me. There's something truly exciting about
 
 ## 📫 Reach Out!
 If you have any questions, want to collaborate on a project, or just want to fight, feel free to drop me an email at **michael.o.u@outlook.com**.
-For fights, please meet me at the back room, and don't tell anyone.
+For fights, meet me at the back room, and please don't tell anyone.
 
 Thanks for stopping by!
 

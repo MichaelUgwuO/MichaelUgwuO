@@ -8,7 +8,7 @@ My name is Michael and I'm currently diving deep into the world of **C programmi
 - C++: Object oriented mindfucking 🥴
 
 ## 🔥 Passion
-App Development has always captivated me. There's something truly exciting about turning an idea into a tangible, functional application that can enhance people's lives.
+App Development has always captivated me. There's something truly exciting about turning an idea into a tangible, functional application that can enhance people's lives and steal their data.
 
 ## 📫 Reach Out!
 If you have any questions, want to collaborate on a project, or just want to fight, feel free to drop me an email at **michael.o.u@outlook.com**.

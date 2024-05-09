@@ -1,18 +1,17 @@
 # Hello there! 👋
 
-My name is Michael and I'm currently diving deep into the world of **C programming** and **Python**. I have a profound passion for **App development** and I'm always eager to learn and create.
+My name is Michael and I'm deeply engaged in mastering the languages of **C**, **Python**, and **C++**. My passion lies in **App Development**, where I strive to transform innovative ideas into impactful applications.
 
 ## 📚 What I'm Learning
-- C Programming: Malloc is my Warlock 😈
-- Python: Easy peasy lemon squeezy 😜
-- C++: Object oriented mindfucking 🥴
+- C Programming: Casting spells with malloc 🧙
+- Python: Slicing through Python with ease 🍋
+- C++: Navigating the labyrinth of OOP in C++ 🧠
 
 ## 🔥 Passion
-App Development has always captivated me. There's something truly exciting about turning an idea into a tangible, functional application that can enhance people's lives and steal their data.
+App development fascinates me. The process of turning a concept into a functional tool that not only transforms ideas but also enriches user experiences is truly exhilarating.
 
 ## 📫 Reach Out!
-If you have any questions, want to collaborate on a project, or just want to fight, feel free to drop me an email at **michael.o.u@outlook.com**.
-For fights, meet me at the back room, and please don't tell anyone.
+If you have any questions, wish to collaborate on a project, or even share a friendly debate, feel free to drop me an email at **michael.o.u@outlook.com**.
 
 Thanks for stopping by!
 
